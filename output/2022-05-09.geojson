@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 48.8577, "Longitude": 2.295, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ 2.295, 48.8577 ] } },
+{ "type": "Feature", "properties": { "Latitude": 90.0, "Longitude": 0.0, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 90.0 ] } },
+{ "type": "Feature", "properties": { "Latitude": 0.0, "Longitude": -160.0, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -160.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Latitude": 50.920833333333334, "Longitude": 11.578083333333334, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ 11.578083333333334, 50.920833333333334 ] } },
+{ "type": "Feature", "properties": { "Latitude": -45.9, "Longitude": 170.5, "Label": "Dunedin" }, "geometry": { "type": "Point", "coordinates": [ 170.5, -45.9 ] } },
+{ "type": "Feature", "properties": { "Latitude": -23.6, "Longitude": -50.0, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -50.0, -23.6 ] } }
+]
+}

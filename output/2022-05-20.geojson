@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 36.67722222222222, "Longitude": -86.683333333333337, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -86.683333333333337, 36.67722222222222 ] } },
+{ "type": "Feature", "properties": { "Latitude": 36.677280555555555, "Longitude": -86.68343055555556, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -86.68343055555556, 36.677280555555555 ] } },
+{ "type": "Feature", "properties": { "Latitude": 36.67728, "Longitude": -86.68343, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -86.68343, 36.67728 ] } },
+{ "type": "Feature", "properties": { "Latitude": 36.67728, "Longitude": -93.31657, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ -93.31657, 36.67728 ] } },
+{ "type": "Feature", "properties": { "Latitude": 39.7681, "Longitude": 64.4556, "Label": "" }, "geometry": { "type": "Point", "coordinates": [ 64.4556, 39.7681 ] } }
+]
+}

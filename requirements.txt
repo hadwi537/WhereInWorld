@@ -1,0 +1,14 @@
+requirements:
+conda
+GeoJSON
+matplotlib
+geopandas
+pandas
+datetime
+
+standard form:
+ISO 6709
+(+ means northern hemi)
+(- means southern)
+(number of digits has meaning
+- integer denotes units)

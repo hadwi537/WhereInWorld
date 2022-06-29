@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 32.0, "Longitude": -24.0, "Label": "nonsense" }, "geometry": { "type": "Point", "coordinates": [ -24.0, 32.0 ] } },
+{ "type": "Feature", "properties": { "Latitude": -45.867111111111114, "Longitude": 170.51780555555558, "Label": "OwheoTwo" }, "geometry": { "type": "Point", "coordinates": [ 170.517805555555583, -45.867111111111114 ] } },
+{ "type": "Feature", "properties": { "Latitude": -45.8671, "Longitude": 170.517806, "Label": "OwheoThree" }, "geometry": { "type": "Point", "coordinates": [ 170.517806, -45.8671 ] } }
+]
+}

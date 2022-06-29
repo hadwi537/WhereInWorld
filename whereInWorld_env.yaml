@@ -1,0 +1,6 @@
+name: whereInWorld
+channels:
+  - defaults
+dependencies:
+  - geopandas
+prefix: C:\Users\willi\miniconda3\envs\whereInWorld
